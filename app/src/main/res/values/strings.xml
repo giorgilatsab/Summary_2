@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Summary_2</string>
+    <string name="save">save</string>
+    <string name="output">output</string>
+    <string name="text">text</string>
+    <string name="text_input">text input</string>
+</resources>
